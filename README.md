@@ -1,6 +1,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 # Face Mask Detection
-It is a real time face mask detection where 
+It is a real time face mask detection.
 
 ## Requirements
 - Keras
